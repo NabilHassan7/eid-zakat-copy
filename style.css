@@ -21,6 +21,13 @@ body{
     justify-content: center;
 }
 
+.flex-container-column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 .header-bg-image{
     background-image: url(./images/Rectangle\ 1.jpg);
     background-position: center;
@@ -107,4 +114,12 @@ body{
 .section-image-no-bg-size{
     height: 600px;
     width: 600px;
+}
+
+.section-inter-text{
+    text-align: center;
+}
+
+.section-cards{
+    
 }
